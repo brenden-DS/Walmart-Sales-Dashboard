@@ -33,7 +33,7 @@ Feel free to explore the dataset and draw your own insights!
    - Overally the business achieved total sales of **$725k** and total profit at **$108k**.
 
 4. **Top Performing City**:
-   - **Los Angeles,Seattle,San Francisco** emerged as the top cities by sales, generating **$176k,120,113** in sales and **$30k,29,18** in profit respectively.
+   - **Los Angeles,Seattle,San Francisco** emerged as the top cities by sales, generating **$176k,$120k,$113k** in sales and **$30k,$29k,$18k** in profit respectively.
    - In contrast, **San Luis Obispo** recorded the lowest sales at just **$1**.
 
 5. **Best-Selling Product**:
