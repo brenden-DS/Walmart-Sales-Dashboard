@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Walmart Sales Dashboard repository! This project provides an insightful analysis of Walmart's sales trends over a four-year period, from 2011 to 2014. By exploring various features such as state, city, product category, and more, we aim to understand the performance of the business, identify top-selling products, and optimize inventory management. Heres a link to the the live dashboard https://app.powerbi.com/view?r=eyJrIjoiNmMwMDllMGQtMWNhMC00NjFmLThmNzktZTFiYWMxOGRhODU5IiwidCI6IjAzNWEyYzY4LTc2YjQtNGViYS1hMTVhLWNiYmNhOTY4NjhjZCJ9.
+Welcome to the Walmart Sales Dashboard repository! This project provides an insightful analysis of Walmart's sales trends over a four-year period, from 2011 to 2014. By exploring various features such as state, city, product category, and more, we aim to understand the performance of the business, identify top-selling products, and optimize inventory management. Heres a link to the the live dashboard here(https://app.powerbi.com/view?r=eyJrIjoiNmMwMDllMGQtMWNhMC00NjFmLThmNzktZTFiYWMxOGRhODU5IiwidCI6IjAzNWEyYzY4LTc2YjQtNGViYS1hMTVhLWNiYmNhOTY4NjhjZCJ9)
 
 ## Dataset
 
