@@ -1,8 +1,10 @@
 # Walmart Sales Dashboard 
 
-## Overview
+This repository presents a comprehensive sales performance analysis, focusing on revenue trends, regional contributions, and product performance over multiple years. Leveraging a robust dataset, this project provides actionable insights to optimize business strategies and drive growth.
 
-Welcome to the Walmart Sales Dashboard repository! This project provides an insightful analysis of Walmart's sales trends over a four-year period, from 2011 to 2014. By exploring various features such as state, city, product category, and more, we aim to understand the performance of the business, identify top-selling products, and optimize inventory management. Heres a link to the the live dashboard here [Link](https://app.powerbi.com/view?r=eyJrIjoiNmMwMDllMGQtMWNhMC00NjFmLThmNzktZTFiYWMxOGRhODU5IiwidCI6IjAzNWEyYzY4LTc2YjQtNGViYS1hMTVhLWNiYmNhOTY4NjhjZCJ9)
+### Analysis Overview:
+The analysis examines sales and profit metrics across categories, states, and cities, identifying key trends and performance drivers. It highlights top-performing regions and products while pinpointing areas for improvement, offering a foundation for informed decision-making.
+[Link](https://app.powerbi.com/view?r=eyJrIjoiNmMwMDllMGQtMWNhMC00NjFmLThmNzktZTFiYWMxOGRhODU5IiwidCI6IjAzNWEyYzY4LTc2YjQtNGViYS1hMTVhLWNiYmNhOTY4NjhjZCJ9)
 
 ## Dataset
 
@@ -17,60 +19,58 @@ The dataset included in this repository contains the following features:
 - **Sales**
 - **Quantity**
 
-Feel free to explore the dataset and draw your own insights!
 
 ### Visuals
 Overview
+
 ![Overview](https://github.com/brenden-DS/Walmart-Sales-Dashboard/blob/main/walmart%20overview.PNG)
 
 Sales Insights
+
 ![sales](https://github.com/brenden-DS/Walmart-Sales-Dashboard/blob/main/walmart%20sales%20insights.PNG)
 
+Product Insights
+
+![Products](https://github.com/brenden-DS/Walmart-Sales-Dashboard/blob/main/walmart%20product%20analysis.PNG)
+
+### Tools Used:  
+DAX: Employed for creating complex measures to calculate sales, profit, and performance metrics.  
+
+Power Query: Utilized for data cleaning and transformation to ensure dataset accuracy and consistency.  
+
+Canva : Used to design the dashboard background, enhancing the visual appeal of the final presentation.
 
 ## Key Insights
 
-1. **Sales Trends by Category**:
-   - The categories of **Chairs** and **Phones** generated the most sales revenue during the analyzed period.
+- Category Leaders: Chairs and Phones emerged as the top revenue-generating categories, underscoring their importance to overall sales.  
 
-2. **State Performance**:
-   - **California** accounted for over **60%** of total sales, highlighting its significance in overall business performance.
+- Regional Dominance: California contributed over 60% of total sales, with Los Angeles, Seattle, and San Francisco leading at $176K, $120K, and $113K in sales, respectively, and corresponding profits of $30K, $29K, and $18K.  
 
-3. **Yearly Insights**:
-   - Sales and profit exhibited consistent growth each year, with a slight dip in **2012**. 
-   - **2014** marked the highest sales year.
-   - Overally the business achieved total sales of **$725k** and total profit at **$108k**.
+- Annual Performance: Sales and profit grew consistently, peaking in 2014, with total sales reaching $725K and profit at $108K, despite a minor dip in 2012.  
 
-4. **Top Performing City**:
-   - **Los Angeles,Seattle,San Francisco** emerged as the top cities by sales, generating **$176k,$120k,$113k** in sales and **$30k,$29k,$18k** in profit respectively.
-   - In contrast, **San Luis Obispo** recorded the lowest sales at just **$1**.
+- Product Highlight: The Cannon Image Copier stood out as the best-selling product across the analyzed period.  
 
-5. **Best-Selling Product**:
-   - The **Cannon Image Copier** was identified as the best-selling product during the analysis.
+- Underperforming Areas: San Luis Obispo recorded the lowest sales at just $1, indicating a need for targeted intervention.
+
 
 ## Recommendations
 
-1. **Targeted Marketing in top performing cites eg California**:
-   - Given that California represents a significant portion of total sales, consider implementing targeted marketing campaigns and promotions specifically for top performing states to further boost sales.
+- Region-Specific Strategies: Capitalize on California’s dominance by deploying targeted marketing campaigns and promotions in high-performing states to further increase revenue.  
 
-2. **Focus on High-Performing Categories**:
-   - Invest in advertising and inventory for the top-performing categories, particularly **Chairs** and **Phones**, to maximize revenue potential.
+- Category Investment: Allocate additional resources to advertising and inventory for Chairs and Phones to sustain and grow their revenue contribution.  
 
-3. **Address Underperforming Cities**:
-   - Investigate the lack of sales in cities like San Luis Obispo. Consider localized marketing strategies or promotional discounts or perform market research to provide products which are in demand for those markets to stimulate interest and increase sales in these areas.
+- Revitalizing Low-Performing Regions: Conduct market research in underperforming cities like San Luis Obispo to identify demand gaps, and implement localized marketing or discounts to stimulate sales.  
+
+- Product Optimization: Enhance inventory and marketing for the Cannon Image Copier, exploring bundling opportunities with complementary products to boost sales further.  
+
+- Customer Insights: Establish a customer feedback system to gather data on preferences and satisfaction, informing inventory and marketing decisions for greater alignment with market needs.
 
 
-4. **Leverage Best-Selling Products**:
-   - Increase the inventory and marketing efforts for the **Cannon Image Copier**. Consider bundling it with complementary products to enhance sales further.
-
-6. **Customer Feedback Loop**:
-   - Establish a feedback mechanism to gather insights from customers regarding product preferences and satisfaction. This data can guide inventory decisions and marketing strategies.
 
 ## Conclusion
 
-This Walmart Sales Dashboard project, completed using Power BI, provides a comprehensive view of sales trends and insights. 
+This analysis reveals key drivers of sales performance, with Chairs and Phones leading categories and California dominating regionally, while identifying underperformance in areas like San Luis Obispo. By leveraging tools like DAX, & Power Query the project delivers actionable strategies for growth. It sets a clear path for targeted marketing, product optimization, and improved customer engagement.
 
 
-
-Feel free to contribute to this repository or reach out with any questions!
 
 Happy analyzing!
