@@ -20,7 +20,12 @@ The dataset included in this repository contains the following features:
 Feel free to explore the dataset and draw your own insights!
 
 ### Visuals
+Overview
 ![Overview](https://github.com/brenden-DS/Walmart-Sales-Dashboard/blob/main/walmart%20overview.PNG)
+
+Sales Insights
+![sales](https://github.com/brenden-DS/Walmart-Sales-Dashboard/blob/main/walmart%20sales%20insights.PNG)
+
 
 ## Key Insights
 
